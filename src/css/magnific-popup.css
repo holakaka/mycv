@@ -1,0 +1,117 @@
+/* Detail Project */
+.popupBg {
+  position: fixed;
+  display: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 101;
+}
+
+/* Detail Project */
+.popupDiv_mobile {
+  position: absolute;
+  display: none;
+  background: rgba(129, 21, 129, 0.5);
+  top: 0;
+  left: 10%;
+  right: 10%;
+  bottom: 0;
+  margin: 30% auto;
+  max-width: 85%;
+  cursor: auto;
+  z-index: 102;
+}
+.popupDiv {
+  position: absolute;
+  display: none;
+  background: rgba(102, 2, 102, 0.747);
+  top: 10%;
+  left: 0;
+  right: 0;
+  bottom: 10%;
+  margin: auto 28%;
+  max-width: 85%;
+  cursor: auto;
+  z-index: 102;
+}
+/* Layout info */
+.popupDivlayoutinfo {
+  background: rgb(211, 203, 203);
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 10%;
+  height: 90%;
+  max-width: 100%;
+  z-index: 103;
+  overflow: auto;
+}
+.popupDivbarbutton {
+  background: rgb(0, 0, 0);
+  display: none;
+  position: absolute;
+  top: 90%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 10%;
+  max-width: 100%;
+  z-index: 103;
+}
+/* img deltail */
+.popupDivimg {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 60%;
+  height: 40%;
+  max-width: 100%;
+  z-index: 104;
+  text-align: center;
+  padding: 10% 0;
+  text-align: center;
+  background: url(../images/portfolio/layout.jpg) no-repeat center center/cover;
+}
+
+.popupDivoverview {
+  background: #383838 ;
+  display: none;
+  position: absolute;
+  top: 40%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  min-height: 60%;
+  max-height: max-content ;
+  height: fit-content;
+  max-width: 100%;
+  z-index: 104;
+  padding: 10px;
+  overflow: auto;
+}
+
+.popupDivdetail {
+  background: rgb(231, 231, 231);
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: max-content;
+  max-width: 100%;
+  z-index: 104;
+  padding: 10px;
+}
+
+.project-info {
+  display: flex;
+  align-items: baseline;
+}

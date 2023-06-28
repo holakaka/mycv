@@ -9,7 +9,7 @@ const About = () => {
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <br></br>
-        <p style={{ fontSize: "26px", color: "#c7c7c7" }}>
+        <p style={{ fontSize: "22px", color: "#c7c7c7" }}>
           With a goal of becoming a full-stack developer, <br></br>I believe my
           job-related skills and knowledge would be maximized to achieve strong
           values for the company.
@@ -20,7 +20,7 @@ const About = () => {
             <h2>Contact Details</h2>
             <p
               className="address"
-              style={{ fontSize: "20px", color: "#c7c7c7" }}
+              style={{ fontSize: "22px", color: "#c7c7c7" }}
             >
               <span>Dang Ngoc Khang</span>
               <br />

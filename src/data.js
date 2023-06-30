@@ -87,7 +87,7 @@ export const info_project = [
     description: "IoT",
     overview:
       "The product is a course project built in 2023. Recreational aquarium breeding is not as simple as raising a dog or cat, but it also takes a lot of insights and time. There would be many difficulties such as: Water temperature control, food control, inconvenience in taking care when travelling. Therefore, smart aquariums were born to solve the above difficulties.",
-    date_project: "09/2023 - 12/2023",
+    date_project: "09/2022 - 12/2022",
     team_size: "2",
     position: [
       "Designed and constructed databases",

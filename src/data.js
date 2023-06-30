@@ -124,7 +124,7 @@ export const info_project = [
     project_name: "Recommendation system for movies",
     description: "Science Research",
     overview:
-      "This is a research project to be conducted from September 2022 to April 2023. The topic aims to build a system where users only need to import .xlsx files containing necessary information, from which the system automatically processes and makes movie recommendations in accordance with the preferences and habits of users. The project has been completed with excellent grades (91.3 / 100) and selected for exhibition at the UEB student conference in 2022-2023.",
+      "This is a research project to be conducted from September 2022 to April 2023. The topic aims to build a system where users only need to import .xlsx files containing necessary information, from which the system automatically processes and makes movie recommendations in accordance with the preferences and habits of users. The project has been completed with excellent grades (91.3 / 100) and was selected for exhibition at the UEB student conference in 2022-2023.",
     date_project: "09/2022 - 04/2023",
     team_size: "4",
     position: [],

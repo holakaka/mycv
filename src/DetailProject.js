@@ -59,9 +59,9 @@ const DetailProject = function DetailProject({
               }}
               ref={popupDiv}
             >
-              <p style={{ fontSize: "40px", color: "#3F3F3F" }}>
+              {/* <p style={{ fontSize: "40px", color: "#3F3F3F" }}>
                 Khang's Project
-              </p>
+              </p> */}
             </div>
           </section>
           <section id="sectionPopupOverview">
@@ -75,7 +75,7 @@ const DetailProject = function DetailProject({
                   {info_project.project_name}
                 </h3>
                 <h1 style={{ marginBottom: 0, color: "rgb(231, 231, 231)" }}>
-                  | {info_project.description}
+                   {info_project.description}
                 </h1>
               </div>
               <p style={{ color: "rgb(231, 231, 231)", marginTop: 0 }}>

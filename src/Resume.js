@@ -52,21 +52,21 @@ const Skills = function Skills() {
         <div className="row item">
           <div className="twelve columns">
             <h3>Hard Skills</h3>
-            <ul>
+            <ul className="info">
               {hard_skills.map((skill, index) => (
                 <li key={index}>
                   {" "}
-                  <span>&bull;</span> <em className="info-program">{skill} </em>
+                   <em className="info-program">{skill} </em>
                 </li>
               ))}
             </ul>
             <br />
             <h3>Soft Skills</h3>
-            <ul>
+            <ul className="info">
               {soft_skills.map((skill, index) => (
                 <li key={index}>
                   {" "}
-                  <span>&bull;</span> <em className="info-program">{skill} </em>
+                   <em className="info-program">{skill} </em>
                 </li>
               ))}
             </ul>

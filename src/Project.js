@@ -4,6 +4,7 @@ import { info_project } from "./data.js";
 
 function EachProject({ project }) {
   const [idPopupDiv, setIdPopupDiv] = useState(false);
+  const screenWidth = window.screen.width;
 
   const handleClick = () => {
     setIdPopupDiv(true);
@@ -34,6 +35,7 @@ function EachProject({ project }) {
 }
 
 const Project = function Project() {
+  
   return (
     <div className="row">
       <div className="twelve columns collapsed">

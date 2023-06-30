@@ -83,17 +83,17 @@ const Div = () => (
       <hr />
       <ul className="social">
         <li>
-          <a href="#">
+          <a href="https://www.facebook.com/khang.ngoc.3914/" target="_blank">
             <i className="fa fa-facebook"></i>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://github.com/holakaka" target="_blank">
             <i className="fa fa-github"></i>
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://www.linkedin.com/in/khang-%C4%91%E1%BA%B7ng-ng%E1%BB%8Dc-559101228/" target="_blank">
             <i className="fa fa-linkedin"></i>
           </a>
         </li>

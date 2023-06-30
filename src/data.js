@@ -3,6 +3,7 @@ import IMAGES from "./images";
 export const info_project = [
   {
     id_project: "001",
+    link_detail_project: "http://surl.li/inueh",
     url_img: IMAGES.CheckerViet,
     project_name: "CheckerViet",
     description: "Web Design",
@@ -39,6 +40,7 @@ export const info_project = [
 
   {
     id_project: "002",
+    link_detail_project: "http://surl.li/inudw",
     url_img: IMAGES.Hotel,
     project_name: "Hotel Management Software",
     description: "Software",
@@ -79,6 +81,7 @@ export const info_project = [
   },
   {
     id_project: "003",
+    link_detail_project: "http://surl.li/inufh",
     url_img: IMAGES.Aquarium,
     project_name: "Smart Aquarium",
     description: "IoT",
@@ -116,6 +119,7 @@ export const info_project = [
   },
   {
     id_project: "004",
+    link_detail_project: "http://surl.li/inufn",
     url_img: IMAGES.RecomendSystem,
     project_name: "Recommendation system for movies",
     description: "Science Research",

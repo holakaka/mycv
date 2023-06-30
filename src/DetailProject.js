@@ -58,9 +58,7 @@ const DetailProject = function DetailProject({
                 display: state_popup,
               }}
               ref={popupDiv}
-            >
-              
-            </div>
+            ></div>
           </section>
           <section id="sectionPopupOverview">
             <div
@@ -159,8 +157,14 @@ const DetailProject = function DetailProject({
 
               <h3>Technology Description: </h3>
               <p style={{ color: "black" }}>{info_project.technology}</p>
-              
-
+              <p
+                style={{ color: "black", fontWeight: "bold"}}
+              >
+                Read more about{" "}
+                <a style={{color: "rgb(240, 96, 0)"}} href={info_project.link_detail_project} target="_blank">
+                  This project
+                </a>
+              </p>
             </div>
           </section>
         </div>

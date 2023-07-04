@@ -24,14 +24,12 @@ const Education = () => (
 );
 const Skills = function Skills() {
   const hard_skills = [
-    "ReactJS",
-    "JavaScript",
-    "Java",
-    "SQL",
-    "Python",
-    "HTML",
-    "CSS",
-    "PHP",
+    "Proficient ReactJS",
+    "Proficient JavaScript, HTML, CSS",
+    "Deep understanding Java",
+    "Basic understanding MSSQL/ MySQL",
+    "Basic understanding Python",
+    "Experience in using GIT tools to manage source code"
   ];
   const soft_skills = [
     "Working with English documents",

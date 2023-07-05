@@ -26,10 +26,10 @@ const Education = () => (
 const Skills = function Skills() {
   const hard_skills = [
     "Proficient ReactJS",
-    "Basic understanding React Native, Redux, Postman",
     "Proficient JavaScript, HTML, CSS",
     "Deep understanding Java",
     "Basic understanding MSSQL/ MySQL",
+    "Basic understanding Redux, API, MVC",      
     "Basic understanding Python",
     "Experience in using GIT tools to manage source code",
     "Proficient AI, PTS, Figma",

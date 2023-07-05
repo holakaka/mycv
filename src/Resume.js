@@ -31,14 +31,14 @@ const Skills = function Skills() {
     "Deep understanding Java",
     "Basic understanding MSSQL/ MySQL",
     "Basic understanding Python",
-    "Experience in using GIT tools to manage source code"
+    "Experience in using GIT tools to manage source code",
+    "Proficient AI, PTS, Figma",
   ];
   const soft_skills = [
     "Working with English documents",
     "Task and time management",
     "Individual and team work",
     "Microsoft Office (Word, Excel, Powerpoint)",
-    "Adobe Photoshop and Adobe Illustrator",
   ];
   return (
     <div className="row skill">

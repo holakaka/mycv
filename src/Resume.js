@@ -13,8 +13,9 @@ const Education = () => (
         <div className="twelve columns">
           <h3>Sai Gon University</h3>
           <p className="info">
-            Final-year Infomation Technology student <span>&bull;</span>{" "}
+            Final-year Infomation Technology student - GPA 7.33 <span>&bull;</span>{" "}
             <em className="date">September 2019</em>
+            
           </p>
           <br></br>
         </div>
@@ -25,6 +26,7 @@ const Education = () => (
 const Skills = function Skills() {
   const hard_skills = [
     "Proficient ReactJS",
+    "Basic understanding React Native, Redux, Postman",
     "Proficient JavaScript, HTML, CSS",
     "Deep understanding Java",
     "Basic understanding MSSQL/ MySQL",

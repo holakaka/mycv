@@ -25,17 +25,14 @@ const Education = () => (
 );
 const Skills = function Skills() {
   const hard_skills = [
-    "Proficient ReactJS",
-    "Proficient JavaScript, HTML, CSS",
-    "Deep understanding Java",
-    "Basic understanding MSSQL/ MySQL",
-    "Basic understanding Redux, API, MVC",      
-    "Basic understanding Python",
-    "Experience in using GIT tools to manage source code",
+    "Proficient NextJS, ReactJS, TypeScript",
+    "Proficient TailWind",
+    "Proficient Redux, RESTful API, Postman",
+    "Experience in GitLab, SCRUM",
     "Proficient AI, PTS, Figma",
   ];
   const soft_skills = [
-    "Working with English documents",
+    "Working with English documents (TOEIC: 640)",
     "Task and time management",
     "Individual and team work",
     "Microsoft Office (Word, Excel, Powerpoint)",

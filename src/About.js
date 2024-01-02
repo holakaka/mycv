@@ -39,7 +39,7 @@ const About = () => {
                 ngockhang16062001@gmail.com
                 <br />
                 <br></br>
-                <i className="fa fa-phone"></i>&nbsp;&nbsp; 076 503 8968
+                <i className="fa fa-phone"></i>&nbsp;&nbsp; 0326 160601
                 <br />
                 <br></br>
                 <i className="fa fa-map-marker"></i>&nbsp;&nbsp; Binh Chanh, Ho Chi
